@@ -16,7 +16,7 @@ if __name__ == '__main__':
     numpyArr = np.array([1, 2, 3])
     #print_hi('PyCharm')
     print(my_array)
-    #print(numpyArr)
+    print(numpyArr)
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
